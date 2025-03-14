@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\designerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\designerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\developerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\developerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|c:\\users\\aram\\source\\repos\\menegmentsystememploye\\menegmentsystememploye\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E13FFAD-E49F-404D-B707-2BF69F71A69D}|MenegmentSystemEmploye\\MenegmentSystemEmploye.csproj|solutionrelative:menegmentsystememploye\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesignerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\DesignerRepository.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\DesignerRepository.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\DesignerRepository.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\DesignerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:26:47.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeveloperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\DeveloperRepository.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\DeveloperRepository.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\DeveloperRepository.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\DeveloperRepository.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:55:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\IRepository.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\IRepository.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:13:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\ManagerRepository.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\ManagerRepository.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\ManagerRepository.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\ManagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:10:57.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Manager.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\Manager.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Manager.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:46:35.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Program.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\Program.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Program.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:42:08.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Designer.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\Designer.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Designer.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:47:02.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\IEmployee.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\IEmployee.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:49:38.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Developer.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\Developer.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Developer.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:46:49.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Employee.cs",
+              "RelativeDocumentMoniker": "MenegmentSystemEmploye\\Employee.cs",
+              "ToolTip": "C:\\Users\\Aram\\source\\repos\\MenegmentSystemEmploye\\MenegmentSystemEmploye\\Employee.cs",
+              "RelativeToolTip": "MenegmentSystemEmploye\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:44:33.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
